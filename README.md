@@ -5,10 +5,6 @@ Campus parking spot tracker for CSE226 group project.
 ## Problem Statement
 P07 - ParkPin: App to save and navigate back to a parking spot on campus.
 
-## Team
-- [Group Leader Name] - [Registration Number]
-- [Member 2 Name] - [Registration Number]
-
 ## Overview
 ParkPin lets users mark their current parking location with a single tap and 
 navigate back to it later using Google Maps. The app also includes an AI-based 
